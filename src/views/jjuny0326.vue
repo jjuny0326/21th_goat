@@ -2,7 +2,7 @@
   <main class="page">
     <div class="profile-card">
       <div class="profile-header">
-        <h1>👋 jjuny0326 페이지</h1>
+        <h1>👋 이준영 페이지</h1>
         <p class="subtitle">Backend & Full-stack Developer</p>
       </div>
       
