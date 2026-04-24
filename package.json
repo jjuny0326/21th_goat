@@ -2,7 +2,19 @@
   "name": "21th-goat",
   "version": "0.0.0",
   "private": true,
+  "description": "This template should help get you started developing with Vue 3 in Vite.",
+  "homepage": "https://github.com/jjuny0326/21th_goat#readme",
+  "bugs": {
+    "url": "https://github.com/jjuny0326/21th_goat/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjuny0326/21th_goat.git"
+  },
+  "license": "ISC",
+  "author": "",
   "type": "module",
+  "main": "index.js",
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check \"build-only {@}\" --",
@@ -11,6 +23,7 @@
     "type-check": "vue-tsc --build"
   },
   "dependencies": {
+    "pnpm": "^10.33.2",
     "vue": "^3.5.32",
     "vue-router": "^5.0.6"
   },
